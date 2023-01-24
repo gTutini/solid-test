@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind utilities;
+$semantic-root-element: "#root";
+$enable-semantic-container: true;
+$enable-classes: false;
+@import '@picocss/pico/scss/pico';
